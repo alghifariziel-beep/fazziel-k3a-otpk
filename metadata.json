@@ -1,0 +1,6 @@
+{
+  "name": "Terminal Petikemas",
+  "description": "Aplikasi operasional terminal petikemas terintegrasi untuk pengelolaan kontainer, kapal sandar, pergerakan lapangan, dan gate in/out secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
